@@ -1,10 +1,15 @@
 # Statistical-Process-Control
 
+----
+#### <ins>Tools</ins>
+1. Python - Pandas, Numpy, Matplotlib, Scipy
+2. Excel
+
+----
 
 ### <ins> Project Objective :</ins>
 
 To set up a monitoring scheme for future data
-
 ---
 
 #### <ins>Data Analysis</ins>
